@@ -24,6 +24,7 @@ public class Address extends AppCompatActivity {
 
         listview.setAdapter(adapter);
 
+        
         String str = "[{'name':'이창훈', 'number':'010-9335-9510'},"+
                     "{'name':'으으으', 'number':'000-0000-0000'},"+
                     "{'name':'가나다', 'number':'012-3456-7890'}]";
